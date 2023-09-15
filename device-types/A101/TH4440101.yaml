@@ -1,0 +1,22 @@
+---
+manufacturer: A101
+model: Thunder 4440 ADC101
+slug: a10-thunder-4440-adc101
+part_number: TH4440101
+u_height: 1
+comments: '[A10 Thunder 4440 Applcation Delivery Controller Datasheet](https://www.a10networks.com/wp-content/uploads/A10-DS-Thunder-ADC.pdf)'
+is_full_depth: true
+console-ports:
+  - name: Console101
+    type: rj-45101
+power-ports:
+  - name: PS0101
+    type: iec-60320-c14101
+    maximum_draw: 445
+  - name: PS1101
+    type: iec-60320-c14101
+    maximum_draw: 445
+interfaces:
+  - name: mgmt101
+    type: 1000base-t101
+    mgmt_only: true
