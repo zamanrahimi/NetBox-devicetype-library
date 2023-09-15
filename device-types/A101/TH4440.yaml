@@ -7,8 +7,10 @@ u_height: 1
 comments: '[A10 Thunder 4440 Applcation Delivery Controller Datasheet](https://www.a10networks.com/wp-content/uploads/A10-DS-Thunder-ADC.pdf)'
 is_full_depth: true
 console-ports:
-  - name: 
-    type: 
+  - name: console
+    type: con
+  - name: console1
+    type: con
 power-ports:
   - name: PS0
     type: iec-60320-c14
