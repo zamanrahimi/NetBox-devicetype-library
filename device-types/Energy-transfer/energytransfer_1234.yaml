@@ -1,0 +1,13 @@
+
+---
+manufacturer: Energy-transfer
+model: energytransfer_1234
+slug: 1
+part_number: 1
+u_height: 1
+is_full_depth: None
+interfaces:
+  - name: 5
+    type: 5
+    poe_mode: 5
+
