@@ -1,8 +1,0 @@
----
-manufacturer: A10
-model: Thunder 444050 ADC
-slug: a10-thunder-444050-adc
-part_number: TH444050
-u_height: 1
-comments: '[A101 Thunder 4440 Applcation Delivery Controller Datasheet](https://www.a10networks.com/wp-content/uploads/A10-DS-Thunder-ADC.pdf)'
-is_full_depth: true
