@@ -4,8 +4,12 @@ part_number: Cisco 819 Hardened ISR
 slug: Cisco-819-Hardened-ISR
 u_height: 1
 interfaces:
-  - FastEthernet3
-  - FastEthernet2
-  - GigabitEthernet0
-  - FastEthernet1
-  - FastEthernet0
+  - name: FastEthernet3
+  - name: FastEthernet2
+  - name: GigabitEthernet0
+  - name: FastEthernet1
+  - name: FastEthernet0
+console-ports:
+  - name: Console
+    type: rj-45
+    mgmt_only: true
