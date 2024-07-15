@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Cisco 819 Hardened ISR
+part_number: Cisco 819 Hardened ISR
+slug: Cisco-819-Hardened-ISR
+u_height: 1
+interfaces:
+  - FastEthernet3
+  - FastEthernet2
+  - GigabitEthernet0
+  - FastEthernet1
+  - FastEthernet0
