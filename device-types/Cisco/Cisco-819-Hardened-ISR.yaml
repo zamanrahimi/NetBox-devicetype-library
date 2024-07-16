@@ -9,7 +9,3 @@ interfaces:
   - name: GigabitEthernet0
   - name: FastEthernet1
   - name: FastEthernet0
-console-ports:
-  - name: Console
-    type: rj-45
-    mgmt_only: true
