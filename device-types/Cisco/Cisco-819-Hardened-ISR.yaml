@@ -4,7 +4,5 @@ part_number: Cisco 819 Hardened ISR
 slug: Cisco-819-Hardened-ISR
 u_height: 1
 interfaces:
-  - name: FastEthernet1
-    type: 1000BASE-T
-  - name: GigabitEthernet0/0
-    type: 1000base-t
+  - name: FastEthernet1/0/1
+    type: 100base-tx
