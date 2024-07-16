@@ -6,3 +6,4 @@ u_height: 1
 interfaces:
   - name: FastEthernet1/0/25
     type: 100base-tx
+    mgmt_only: true
