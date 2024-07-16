@@ -6,3 +6,7 @@ u_height: 1
 interfaces:
   - name: FastEthernet1/0/1
     type: 100base-tx
+  - name: FastEthernet1/0/2
+    type: 100base-tx
+  - name: FastEthernet1/0/3
+    type: 100base-tx
