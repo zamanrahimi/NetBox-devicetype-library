@@ -6,11 +6,5 @@ u_height: 1
 interfaces:
   - name: FastEthernet1
     type: 1000BASE-T
-  - name: FastEthernet3
-    type: 1000BASE-T
-  - name: FastEthernet0
-    type: 1000BASE-T
-  - name: FastEthernet2
-    type: 1000BASE-T
-  - name: GigabitEthernet0
-    type: 1000BASE-T
+  - name: GigabitEthernet0/0
+    type: 1000base-t
