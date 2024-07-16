@@ -1,0 +1,20 @@
+manufacturer: Cisco
+model: Cisco 829 Industrial ISRs
+part_number: Cisco 829 Industrial ISRs
+slug: Cisco-829-Industrial-ISRs
+u_height: 1
+interfaces:
+  - name: GigabitEthernet5
+    type: 1000BASE-T
+  - name: GigabitEthernet3
+    type: 1000BASE-T
+  - name: GigabitEthernet2
+    type: 1000BASE-T
+  - name: GigabitEthernet4
+    type: 1000BASE-T
+  - name: GigabitEthernet1
+    type: 1000BASE-T
+  - name: Wlan-GigabitEthernet0
+    type: 1000BASE-T
+  - name: GigabitEthernet0
+    type: 1000BASE-T
