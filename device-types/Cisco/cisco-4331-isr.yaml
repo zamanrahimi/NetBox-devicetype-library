@@ -1,0 +1,14 @@
+manufacturer: Cisco
+model: Cisco 4331 ISR
+part_number: Cisco 4331 ISR
+slug: cisco-4331-isr
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0
+    type: 1000base-t
+  - name: GigabitEthernet0/0/0
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/0/1
+    type: 1000base-t
+  - name: GigabitEthernet0/0/2
+    type: 1000base-x-sfp
