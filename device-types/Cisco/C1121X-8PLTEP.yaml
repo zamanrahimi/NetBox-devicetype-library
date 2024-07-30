@@ -6,11 +6,11 @@ u_height: 1
 is_full_depth: false
 interfaces:
   - name: Cellular0/2/0
-    type: 10/100/1000BaseTX
+    type: 100BASE-TX (10/100ME)
   - name: Cellular0/2/1
-    type: 10/100/1000BaseTX
+    type: 100BASE-TX (10/100ME)
   - name: GigabitEthernet0/0/0
-    type: 10/100/1000BaseTX
+    type: 100BASE-TX (10/100ME)
   - name: GigabitEthernet0/0/1
-    type: 10/100/1000BaseTX
+    type: 100BASE-TX (10/100ME)
 comments: 30-jul
