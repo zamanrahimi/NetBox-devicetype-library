@@ -6,5 +6,4 @@ u_height: 1
 interfaces:
   - name: GigabitEthernet0/0
     type: 1000BASE-T (1GE)
-
 comments: 30-jul
