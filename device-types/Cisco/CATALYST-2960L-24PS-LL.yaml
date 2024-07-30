@@ -1,0 +1,63 @@
+manufacturer: Cisco
+model: Catalyst 2960L-24PS-LL
+part_number: Catalyst 2960L-24PS-LL
+slug: catalyst-2960l-24ps-ll
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0/1
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/10
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/11
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/12
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/13
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/14
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/15
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/16
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/17
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/18
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/19
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/2
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/20
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/21
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/22
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/23
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/24
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/25
+    type: SFP
+  - name: GigabitEthernet0/26
+    type: SFP
+  - name: GigabitEthernet0/27
+    type: SFP
+  - name: GigabitEthernet0/28
+    type: SFP
+  - name: GigabitEthernet0/3
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/4
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/5
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/6
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/7
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/8
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/9
+    type: 10/100/1000BaseTX
+comments: 30-jul

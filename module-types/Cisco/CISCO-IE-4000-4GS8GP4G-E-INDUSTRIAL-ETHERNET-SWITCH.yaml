@@ -1,0 +1,45 @@
+manufacturer: Cisco
+model: Cisco IE-4000-4GS8GP4G-E Industrial Ethernet Switch
+part_number: Cisco IE-4000-4GS8GP4G-E Industrial Ethernet Switch
+slug: cisco-ie-4000-4gs8gp4g-e-industrial-ethernet-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/1
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/10
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/11
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/12
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/13
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/14
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/15
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/16
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/2
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/3
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/4
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/5
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/6
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/7
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/8
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet1/9
+    type: 10/100/1000BaseTX
+  - name: Vlan1
+    type: 10/100/1000BaseTX
+  - name: Vlan60
+    type: 10/100/1000BaseTX
+  - name: Vlan999
+    type: 10/100/1000BaseTX
+comments: 30-jul

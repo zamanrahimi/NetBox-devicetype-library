@@ -1,16 +1,20 @@
 manufacturer: Cisco
-model: Cisco 829 Industrial ISRs
-part_number: Cisco 829 Industrial ISRs
-slug: cisco-829-industrial-isrs
+model: IR829M-2LTE-EA
+part_number: IR829M-2LTE-EA
+slug: ir829m-2lte-ea
 u_height: 1
 interfaces:
   - name: Async0
     type: 10/100BaseTX
   - name: Async1
     type: 10/100BaseTX
-  - name: Cellular0
+  - name: Cellular0/0
     type: 10/100BaseTX
-  - name: Cellular1
+  - name: Cellular0/1
+    type: 10/100BaseTX
+  - name: Cellular1/0
+    type: 10/100BaseTX
+  - name: Cellular1/1
     type: 10/100BaseTX
   - name: GigabitEthernet0
     type: 10/100BaseTX
@@ -25,6 +29,8 @@ interfaces:
   - name: GigabitEthernet5
     type: 10/100BaseTX
   - name: Loopback0
+    type: 10/100BaseTX
+  - name: NVI0
     type: 10/100BaseTX
   - name: Tunnel10
     type: 10/100BaseTX

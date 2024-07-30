@@ -1,0 +1,27 @@
+manufacturer: Cisco
+model: Cisco Catalyst 2960C-8PC-L
+part_number: Cisco Catalyst 2960C-8PC-L
+slug: cisco-catalyst-2960c-8pc-l
+u_height: 1
+interfaces:
+  - name: FastEthernet0/1
+    type: 10/100BaseTX
+  - name: FastEthernet0/2
+    type: 10/100BaseTX
+  - name: FastEthernet0/3
+    type: 10/100BaseTX
+  - name: FastEthernet0/4
+    type: 10/100BaseTX
+  - name: FastEthernet0/5
+    type: 10/100BaseTX
+  - name: FastEthernet0/6
+    type: 10/100BaseTX
+  - name: FastEthernet0/7
+    type: 10/100BaseTX
+  - name: FastEthernet0/8
+    type: 10/100BaseTX
+  - name: GigabitEthernet0/1
+    type: SFP
+  - name: GigabitEthernet0/2
+    type: SFP
+comments: 30-jul

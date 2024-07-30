@@ -1,0 +1,37 @@
+manufacturer: Cisco
+model: Cisco WS-C3560C-8pcS
+part_number: Cisco WS-C3560C-8pcS
+slug: cisco-ws-c3560c-8pcs
+u_height: 1
+interfaces:
+  - name: 10/100BaseTX
+    type: 10/100BaseTX
+  - name: FastEthernet0/1
+    type: 10/100BaseTX
+  - name: FastEthernet0/2
+    type: 10/100BaseTX
+  - name: FastEthernet0/3
+    type: 10/100BaseTX
+  - name: FastEthernet0/4
+    type: 10/100BaseTX
+  - name: FastEthernet0/5
+    type: 10/100BaseTX
+  - name: FastEthernet0/6
+    type: 10/100BaseTX
+  - name: FastEthernet0/7
+    type: 10/100BaseTX
+  - name: FastEthernet0/8
+    type: 10/100BaseTX
+  - name: GigabitEthernet0/1
+    type: 10/100BaseTX
+  - name: GigabitEthernet0/2
+    type: 10/100BaseTX
+  - name: Interface
+    type: 10/100BaseTX
+  - name: Vlan1
+    type: 10/100BaseTX
+  - name: Vlan100
+    type: 10/100BaseTX
+  - name: Vlan301
+    type: 10/100BaseTX
+comments: 30-jul

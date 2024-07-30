@@ -1,0 +1,129 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3650-48PD-E
+part_number: Cisco Catalyst 3650-48PD-E
+slug: cisco-catalyst-3650-48pd-e
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0/0
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/1
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/10
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/11
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/12
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/13
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/14
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/15
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/16
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/17
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/18
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/19
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/2
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/20
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/21
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/22
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/23
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/24
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/25
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/26
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/27
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/28
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/29
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/3
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/30
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/31
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/32
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/33
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/34
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/35
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/36
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/37
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/38
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/39
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/4
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/40
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/41
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/42
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/43
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/44
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/45
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/46
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/47
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/48
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/5
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/6
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/7
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/8
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/0/9
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/1/1
+    type: v10/100/1000BaseTX
+  - name: GigabitEthernet1/1/2
+    type: v10/100/1000BaseTX
+  - name: Loopback0
+    type: v10/100/1000BaseTX
+  - name: Te1/1/3
+    type: v10/100/1000BaseTX
+  - name: Te1/1/4
+    type: v10/100/1000BaseTX
+  - name: Vlan1
+    type: v10/100/1000BaseTX
+  - name: Vlan10
+    type: v10/100/1000BaseTX
+  - name: Vlan20
+    type: v10/100/1000BaseTX
+  - name: Vlan30
+    type: v10/100/1000BaseTX
+  - name: Vlan40
+    type: v10/100/1000BaseTX
+  - name: Vlan50
+    type: v10/100/1000BaseTX
+  - name: Vlan70
+    type: v10/100/1000BaseTX
+comments: 30-jul

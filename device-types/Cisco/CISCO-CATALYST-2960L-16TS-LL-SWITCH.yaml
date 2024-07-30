@@ -1,0 +1,43 @@
+manufacturer: Cisco
+model: Cisco Catalyst 2960L-16TS-LL Switch
+part_number: Cisco Catalyst 2960L-16TS-LL Switch
+slug: cisco-catalyst-2960l-16ts-ll-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0/1
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/10
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/11
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/12
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/13
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/14
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/15
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/16
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/17
+    type: SFP
+  - name: GigabitEthernet0/18
+    type: SFP
+  - name: GigabitEthernet0/2
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/3
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/4
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/5
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/6
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/7
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/8
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/9
+    type: 10/100/1000BaseTX
+comments: 30-jul

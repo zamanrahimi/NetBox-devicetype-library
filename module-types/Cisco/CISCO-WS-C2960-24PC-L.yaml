@@ -1,0 +1,59 @@
+manufacturer: Cisco
+model: Cisco WS-C2960-24PC-L
+part_number: Cisco WS-C2960-24PC-L
+slug: cisco-ws-c2960-24pc-l
+u_height: 1
+interfaces:
+  - name: FastEthernet0/1
+    type: 10/100BaseTX
+  - name: FastEthernet0/10
+    type: 10/100BaseTX
+  - name: FastEthernet0/11
+    type: 10/100BaseTX
+  - name: FastEthernet0/12
+    type: 10/100BaseTX
+  - name: FastEthernet0/13
+    type: 10/100BaseTX
+  - name: FastEthernet0/14
+    type: 10/100BaseTX
+  - name: FastEthernet0/15
+    type: 10/100BaseTX
+  - name: FastEthernet0/16
+    type: 10/100BaseTX
+  - name: FastEthernet0/17
+    type: 10/100BaseTX
+  - name: FastEthernet0/18
+    type: 10/100BaseTX
+  - name: FastEthernet0/19
+    type: 10/100BaseTX
+  - name: FastEthernet0/2
+    type: 10/100BaseTX
+  - name: FastEthernet0/20
+    type: 10/100BaseTX
+  - name: FastEthernet0/21
+    type: 10/100BaseTX
+  - name: FastEthernet0/22
+    type: 10/100BaseTX
+  - name: FastEthernet0/23
+    type: 10/100BaseTX
+  - name: FastEthernet0/24
+    type: 10/100BaseTX
+  - name: FastEthernet0/3
+    type: 10/100BaseTX
+  - name: FastEthernet0/4
+    type: 10/100BaseTX
+  - name: FastEthernet0/5
+    type: 10/100BaseTX
+  - name: FastEthernet0/6
+    type: 10/100BaseTX
+  - name: FastEthernet0/7
+    type: 10/100BaseTX
+  - name: FastEthernet0/8
+    type: 10/100BaseTX
+  - name: FastEthernet0/9
+    type: 10/100BaseTX
+  - name: GigabitEthernet0/1
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/2
+    type: SFP
+comments: 30-jul

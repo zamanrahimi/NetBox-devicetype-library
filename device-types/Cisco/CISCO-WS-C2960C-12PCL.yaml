@@ -1,0 +1,35 @@
+manufacturer: Cisco
+model: Cisco WS-C2960C-12pcL
+part_number: Cisco WS-C2960C-12pcL
+slug: cisco-ws-c2960c-12pcl
+u_height: 1
+interfaces:
+  - name: FastEthernet0/1
+    type: 10/100BaseTX
+  - name: FastEthernet0/10
+    type: 10/100BaseTX
+  - name: FastEthernet0/11
+    type: 10/100BaseTX
+  - name: FastEthernet0/12
+    type: 10/100BaseTX
+  - name: FastEthernet0/2
+    type: 10/100BaseTX
+  - name: FastEthernet0/3
+    type: 10/100BaseTX
+  - name: FastEthernet0/4
+    type: 10/100BaseTX
+  - name: FastEthernet0/5
+    type: 10/100BaseTX
+  - name: FastEthernet0/6
+    type: 10/100BaseTX
+  - name: FastEthernet0/7
+    type: 10/100BaseTX
+  - name: FastEthernet0/8
+    type: 10/100BaseTX
+  - name: FastEthernet0/9
+    type: 10/100BaseTX
+  - name: GigabitEthernet0/1
+    type: SFP
+  - name: GigabitEthernet0/2
+    type: SFP
+comments: 30-jul
