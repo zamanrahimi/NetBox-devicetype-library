@@ -5,6 +5,65 @@ slug: c1121x-8pltep
 u_height: 1
 is_full_depth: false
 interfaces:
-  - name: GigabitEthernet/0/0
-    type: 1000base-t
+  - name: Cellular0/2/0
+    type: 10/100/1000BaseTX
+  - name: Cellular0/2/1
+    type: 10/100/1s000BaseTX
+  - name: GigabitEthernet0/0/0
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/0/1
+    type: 10/100/1000BaseTX
+comments: 30-jul
+
+
+
+
+manufacturer: Cisco
+model: C1121X-8PLTEP
+part_number: C1121X-8PLTEP
+slug: c1121x-8pltep
+u_height: 1
+interfaces:
+  - name: Cellular0/2/0
+    type: 10/100/1000BaseTX
+  - name: Cellular0/2/1
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/0/0
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/0/1
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/1/0
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/1/1
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/1/2
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/1/3
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/1/4
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/1/5
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/1/6
+    type: 10/100/1000BaseTX
+  - name: GigabitEthernet0/1/7
+    type: 10/100/1000BaseTX
+  - name: Loopback0
+    type: 10/100/1000BaseTX
+  - name: Vlan1
+    type: 10/100/1000BaseTX
+  - name: Vlan10
+    type: 10/100/1000BaseTX
+  - name: Vlan20
+    type: 10/100/1000BaseTX
+  - name: Vlan30
+    type: 10/100/1000BaseTX
+  - name: Vlan40
+    type: 10/100/1000BaseTX
+  - name: Vlan50
+    type: 10/100/1000BaseTX
+  - name: Vlan500
+    type: 10/100/1000BaseTX
+  - name: Vlan70
+    type: 10/100/1000BaseTX
 comments: 30-jul
