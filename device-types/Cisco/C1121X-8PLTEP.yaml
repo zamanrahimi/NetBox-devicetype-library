@@ -1,3 +1,4 @@
+---
 manufacturer: Cisco
 model: C1121X-8PLTEP
 part_number: C1121X-8PLTEP
@@ -5,6 +6,5 @@ slug: c1121x-8pltep
 u_height: 1
 is_full_depth: false
 interfaces:
-  - name: GigabitEthernet0/0
-    type: 1000BASE-T
-comments: 30-jul
+  - name: FastEthernet1/0/1
+    type: 1000base-t
