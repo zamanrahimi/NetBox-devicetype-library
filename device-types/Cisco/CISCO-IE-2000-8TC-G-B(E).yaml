@@ -140,4 +140,4 @@ interfaces:
     type: 1000base-t
   - name: Vlan10
     type: 1000base-t
-comments: 30-jul
+comments: custom

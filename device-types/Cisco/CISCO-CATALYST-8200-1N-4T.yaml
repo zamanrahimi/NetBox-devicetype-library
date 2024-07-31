@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 8200-1N-4T
+part_number: Cisco Catalyst 8200-1N-4T
+slug: cisco-catalyst-8200-1n-4t
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 4500 L3
+part_number: Cisco Catalyst 4500 L3
+slug: cisco-catalyst-4500-l3
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

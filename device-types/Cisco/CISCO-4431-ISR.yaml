@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco 4431 ISR
+part_number: Cisco 4431 ISR
+slug: cisco-4431-isr
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

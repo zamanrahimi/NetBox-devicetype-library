@@ -32,4 +32,4 @@ interfaces:
     type: 1000base-x-sfp
   - name: GigabitEthernet0/2
     type: 1000base-x-sfp
-comments: 30-jul
+comments: custom

@@ -26,4 +26,4 @@ interfaces:
     type: 1000base-t
   - name: GigabitEthernet0/9
     type: 1000base-x-sfp
-comments: 30-jul
+comments: custom

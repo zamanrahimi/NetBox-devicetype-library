@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco IR1101
+part_number: Cisco IR1101
+slug: cisco-ir1101
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

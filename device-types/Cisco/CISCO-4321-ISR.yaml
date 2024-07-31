@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco 4321 ISR
+part_number: Cisco 4321 ISR
+slug: cisco-4321-isr
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

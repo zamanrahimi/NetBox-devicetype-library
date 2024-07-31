@@ -38,4 +38,4 @@ interfaces:
     type: 100base-tx
   - name: Tunnel50
     type: 100base-tx
-comments: 30-jul
+comments: custom

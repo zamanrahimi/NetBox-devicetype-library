@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco 2811
+part_number: Cisco 2811
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

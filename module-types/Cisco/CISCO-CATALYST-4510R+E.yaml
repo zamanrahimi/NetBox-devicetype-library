@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco Catalyst 4510R+E
+part_number: Cisco Catalyst 4510R+E
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

@@ -8,4 +8,4 @@ interfaces:
     type: v1000base-t
   - name: FastEthernet0/1
     type: v1000base-t
-comments: 30-jul
+comments: custom

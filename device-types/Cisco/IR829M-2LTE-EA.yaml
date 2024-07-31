@@ -50,4 +50,4 @@ interfaces:
     type: 100base-tx
   - name: wlan-ap0
     type: 100base-tx
-comments: 30-jul
+comments: custom

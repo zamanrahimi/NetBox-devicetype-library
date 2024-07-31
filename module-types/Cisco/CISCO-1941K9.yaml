@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco 1941K9
+part_number: Cisco 1941K9
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

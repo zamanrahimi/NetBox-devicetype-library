@@ -22,4 +22,4 @@ interfaces:
     type: 100base-tx
   - name: GigabitEthernet0/1
     type: 1000base-t
-comments: 30-jul
+comments: custom

@@ -164,4 +164,4 @@ interfaces:
     type: 1000base-t
   - name: GigabitEthernet1/0/9
     type: 1000base-t
-comments: 30-jul
+comments: custom

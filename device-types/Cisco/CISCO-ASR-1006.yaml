@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco ASR 1006
+part_number: Cisco ASR 1006
+slug: cisco-asr-1006
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

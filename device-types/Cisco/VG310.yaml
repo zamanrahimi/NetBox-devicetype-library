@@ -10,4 +10,4 @@ interfaces:
     type: 100base-tx
   - name: Loopback0
     type: 100base-tx
-comments: 30-jul
+comments: custom
