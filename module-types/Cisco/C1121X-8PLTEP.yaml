@@ -2,9 +2,9 @@
 manufacturer: Cisco
 model: C1121X-8PLTEP
 part_number: C1121X-8PLTEP
-interfaces:
-  - name: GigabitEthernet0{model}/2
-    type: 1000BASE-T (1GE)
+# interfaces:
+#   - name: GigabitEthernet0{model}/2
+#     type: 1000BASE-T (1GE)
 
 
 
