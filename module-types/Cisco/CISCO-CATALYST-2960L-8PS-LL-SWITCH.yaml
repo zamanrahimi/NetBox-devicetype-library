@@ -1,29 +1,26 @@
 manufacturer: Cisco
 model: Cisco Catalyst 2960L-8PS-LL Switch
 part_number: Cisco Catalyst 2960L-8PS-LL Switch
-slug: cisco-catalyst-2960l-8ps-ll-switch
-u_height: 1
 interfaces:
-  - name: ''
+  - name: GigabitEthernet0/10{model}
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/1{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/2{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/3{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/4{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/5{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/6{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/7{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/8{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/9{model}
+    type: 1000base-x-sfp
+  - name: '{model}'
     type: ''
-  - name: GigabitEthernet0/1
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/10
-    type: SFP
-  - name: GigabitEthernet0/2
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/3
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/4
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/5
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/6
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/7
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/8
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/9
-    type: SFP
-comments: 30-jul

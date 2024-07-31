@@ -3,10 +3,47 @@ model: C1121X-8PLTEP
 part_number: C1121X-8PLTEP
 slug: c1121x-8pltep
 u_height: 1
-is_full_depth: false
 interfaces:
-  - name: GigabitEthernet0/2/2
-    type: 1000base-x-sfp
-  - name: GigabitEthernet0/2/3
+  - name: Cellular0/2/0
+    type: 1000base-t
+  - name: Cellular0/2/1
+    type: 1000base-t
+  - name: GigabitEthernet0/0/0
+    type: 1000base-t
+  - name: GigabitEthernet0/0/1
+    type: 1000base-t
+  - name: GigabitEthernet0/1/0
+    type: 1000base-t
+  - name: GigabitEthernet0/1/1
+    type: 1000base-t
+  - name: GigabitEthernet0/1/2
+    type: 1000base-t
+  - name: GigabitEthernet0/1/3
+    type: 1000base-t
+  - name: GigabitEthernet0/1/4
+    type: 1000base-t
+  - name: GigabitEthernet0/1/5
+    type: 1000base-t
+  - name: GigabitEthernet0/1/6
+    type: 1000base-t
+  - name: GigabitEthernet0/1/7
+    type: 1000base-t
+  - name: Loopback0
+    type: 1000base-t
+  - name: Vlan1
+    type: 1000base-t
+  - name: Vlan10
+    type: 1000base-t
+  - name: Vlan20
+    type: 1000base-t
+  - name: Vlan30
+    type: 1000base-t
+  - name: Vlan40
+    type: 1000base-t
+  - name: Vlan50
+    type: 1000base-t
+  - name: Vlan500
+    type: 1000base-t
+  - name: Vlan70
     type: 1000base-t
 comments: 30-jul

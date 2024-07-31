@@ -5,9 +5,9 @@ slug: vg310
 u_height: 1
 interfaces:
   - name: GigabitEthernet0/0
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: GigabitEthernet0/1
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: Loopback0
-    type: 10/100BaseTX
+    type: 100base-tx
 comments: 30-jul

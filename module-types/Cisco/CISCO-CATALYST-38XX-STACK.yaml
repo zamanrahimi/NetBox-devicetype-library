@@ -1,77 +1,74 @@
 manufacturer: Cisco
 model: Cisco Catalyst 38xx stack
 part_number: Cisco Catalyst 38xx stack
-slug: cisco-catalyst-38xx-stack
-u_height: 1
 interfaces:
-  - name: GigabitEthernet0/0
+  - name: GigabitEthernet0/0{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/1
+  - name: GigabitEthernet1/0/10{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/10
+  - name: GigabitEthernet1/0/11{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/11
+  - name: GigabitEthernet1/0/12{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/12
+  - name: GigabitEthernet1/0/13{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/13
+  - name: GigabitEthernet1/0/14{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/14
+  - name: GigabitEthernet1/0/15{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/15
+  - name: GigabitEthernet1/0/16{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/16
+  - name: GigabitEthernet1/0/17{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/17
+  - name: GigabitEthernet1/0/18{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/18
+  - name: GigabitEthernet1/0/19{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/19
+  - name: GigabitEthernet1/0/1{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/2
+  - name: GigabitEthernet1/0/20{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/20
+  - name: GigabitEthernet1/0/21{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/21
+  - name: GigabitEthernet1/0/22{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/22
+  - name: GigabitEthernet1/0/23{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/23
+  - name: GigabitEthernet1/0/24{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/24
+  - name: GigabitEthernet1/0/2{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/3
+  - name: GigabitEthernet1/0/3{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/4
+  - name: GigabitEthernet1/0/4{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/5
+  - name: GigabitEthernet1/0/5{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/6
+  - name: GigabitEthernet1/0/6{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/7
+  - name: GigabitEthernet1/0/7{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/8
+  - name: GigabitEthernet1/0/8{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/0/9
+  - name: GigabitEthernet1/0/9{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/1/1
+  - name: GigabitEthernet1/1/1{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/1/2
+  - name: GigabitEthernet1/1/2{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/1/3
+  - name: GigabitEthernet1/1/3{model}
     type: 1000BaseLX
-  - name: GigabitEthernet1/1/4
+  - name: GigabitEthernet1/1/4{model}
     type: 1000BaseLX
-  - name: Te1/1/1
+  - name: Te1/1/1{model}
     type: 1000BaseLX
-  - name: Te1/1/2
+  - name: Te1/1/2{model}
     type: 1000BaseLX
-  - name: Te1/1/3
+  - name: Te1/1/3{model}
     type: 1000BaseLX
-  - name: Te1/1/4
+  - name: Te1/1/4{model}
     type: 1000BaseLX
-  - name: Vlan1
+  - name: Vlan1{model}
     type: 1000BaseLX
-  - name: Vlan201
+  - name: Vlan201{model}
     type: 1000BaseLX
-comments: 30-jul

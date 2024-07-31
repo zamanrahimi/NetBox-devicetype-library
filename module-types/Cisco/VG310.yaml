@@ -1,13 +1,10 @@
 manufacturer: Cisco
 model: VG310
 part_number: VG310
-slug: vg310
-u_height: 1
 interfaces:
-  - name: GigabitEthernet0/0
-    type: 10/100BaseTX
-  - name: GigabitEthernet0/1
-    type: 10/100BaseTX
-  - name: Loopback0
-    type: 10/100BaseTX
-comments: 30-jul
+  - name: GigabitEthernet0/0{model}
+    type: 100base-tx
+  - name: GigabitEthernet0/1{model}
+    type: 100base-tx
+  - name: Loopback0{model}
+    type: 100base-tx

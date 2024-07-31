@@ -1,11 +1,8 @@
 manufacturer: Cisco
 model: Cisco Voice Gateway 204XM
 part_number: Cisco Voice Gateway 204XM
-slug: cisco-voice-gateway-204xm
-u_height: 1
 interfaces:
-  - name: FastEthernet0/0
-    type: v10/100/1000BaseTX
-  - name: FastEthernet0/1
-    type: v10/100/1000BaseTX
-comments: 30-jul
+  - name: FastEthernet0/0{model}
+    type: v1000base-t
+  - name: FastEthernet0/1{model}
+    type: v1000base-t

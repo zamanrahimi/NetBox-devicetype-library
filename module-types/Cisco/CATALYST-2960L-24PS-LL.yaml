@@ -1,63 +1,60 @@
 manufacturer: Cisco
 model: Catalyst 2960L-24PS-LL
 part_number: Catalyst 2960L-24PS-LL
-slug: catalyst-2960l-24ps-ll
-u_height: 1
 interfaces:
-  - name: GigabitEthernet0/1
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/10
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/11
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/12
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/13
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/14
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/15
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/16
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/17
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/18
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/19
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/2
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/20
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/21
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/22
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/23
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/24
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/25
-    type: SFP
-  - name: GigabitEthernet0/26
-    type: SFP
-  - name: GigabitEthernet0/27
-    type: SFP
-  - name: GigabitEthernet0/28
-    type: SFP
-  - name: GigabitEthernet0/3
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/4
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/5
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/6
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/7
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/8
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/9
-    type: 10/100/1000BaseTX
-comments: 30-jul
+  - name: GigabitEthernet0/10{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/11{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/12{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/13{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/14{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/15{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/16{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/17{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/18{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/19{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/20{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/21{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/22{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/23{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/24{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/25{model}
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/26{model}
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/27{model}
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/28{model}
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/2{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/3{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/4{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/5{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/6{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/7{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/8{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/9{model}
+    type: 1000base-t

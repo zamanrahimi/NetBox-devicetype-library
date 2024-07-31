@@ -1,47 +1,44 @@
 manufacturer: Cisco
 model: Cisco 829 Industrial ISRs
 part_number: Cisco 829 Industrial ISRs
-slug: cisco-829-industrial-isrs
-u_height: 1
 interfaces:
-  - name: Async0
-    type: 10/100BaseTX
-  - name: Async1
-    type: 10/100BaseTX
-  - name: Cellular0
-    type: 10/100BaseTX
-  - name: Cellular1
-    type: 10/100BaseTX
-  - name: GigabitEthernet0
-    type: 10/100BaseTX
-  - name: GigabitEthernet1
-    type: 10/100BaseTX
-  - name: GigabitEthernet2
-    type: 10/100BaseTX
-  - name: GigabitEthernet3
-    type: 10/100BaseTX
-  - name: GigabitEthernet4
-    type: 10/100BaseTX
-  - name: GigabitEthernet5
-    type: 10/100BaseTX
-  - name: Loopback0
-    type: 10/100BaseTX
-  - name: Tunnel10
-    type: 10/100BaseTX
-  - name: Tunnel11
-    type: 10/100BaseTX
-  - name: Tunnel14
-    type: 10/100BaseTX
-  - name: Vlan1
-    type: 10/100BaseTX
-  - name: Vlan32
-    type: 10/100BaseTX
-  - name: Vlan64
-    type: 10/100BaseTX
-  - name: Vlan96
-    type: 10/100BaseTX
-  - name: Wlan-GigabitEthernet0
-    type: 10/100BaseTX
-  - name: wlan-ap0
-    type: 10/100BaseTX
-comments: 30-jul
+  - name: Async0{model}
+    type: 100base-tx
+  - name: Async1{model}
+    type: 100base-tx
+  - name: Cellular0{model}
+    type: 100base-tx
+  - name: Cellular1{model}
+    type: 100base-tx
+  - name: GigabitEthernet0{model}
+    type: 100base-tx
+  - name: GigabitEthernet1{model}
+    type: 100base-tx
+  - name: GigabitEthernet2{model}
+    type: 100base-tx
+  - name: GigabitEthernet3{model}
+    type: 100base-tx
+  - name: GigabitEthernet4{model}
+    type: 100base-tx
+  - name: GigabitEthernet5{model}
+    type: 100base-tx
+  - name: Loopback0{model}
+    type: 100base-tx
+  - name: Tunnel10{model}
+    type: 100base-tx
+  - name: Tunnel11{model}
+    type: 100base-tx
+  - name: Tunnel14{model}
+    type: 100base-tx
+  - name: Vlan1{model}
+    type: 100base-tx
+  - name: Vlan32{model}
+    type: 100base-tx
+  - name: Vlan64{model}
+    type: 100base-tx
+  - name: Vlan96{model}
+    type: 100base-tx
+  - name: Wlan-GigabitEthernet0{model}
+    type: 100base-tx
+  - name: wlan-ap0{model}
+    type: 100base-tx

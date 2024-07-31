@@ -1,12 +1,46 @@
----
 manufacturer: Cisco
 model: C1121X-8PLTEP
 part_number: C1121X-8PLTEP
 interfaces:
-  - name: GigabitEthernet0/2/2{model}
-    type: 1000base-x-sfp
-  - name: GigabitEthernet0/2/3{model}
+  - name: Cellular0/2/0{model}
     type: 1000base-t
-
-
-    
+  - name: Cellular0/2/1{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/0/0{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/0/1{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1/0{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1/1{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1/2{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1/3{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1/4{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1/5{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1/6{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/1/7{model}
+    type: 1000base-t
+  - name: Loopback0{model}
+    type: 1000base-t
+  - name: Vlan10{model}
+    type: 1000base-t
+  - name: Vlan1{model}
+    type: 1000base-t
+  - name: Vlan20{model}
+    type: 1000base-t
+  - name: Vlan30{model}
+    type: 1000base-t
+  - name: Vlan40{model}
+    type: 1000base-t
+  - name: Vlan500{model}
+    type: 1000base-t
+  - name: Vlan50{model}
+    type: 1000base-t
+  - name: Vlan70{model}
+    type: 1000base-t

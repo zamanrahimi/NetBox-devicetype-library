@@ -5,23 +5,23 @@ slug: cisco-catalyst-2960c-8pc-l
 u_height: 1
 interfaces:
   - name: FastEthernet0/1
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet0/2
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet0/3
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet0/4
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet0/5
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet0/6
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet0/7
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet0/8
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: GigabitEthernet0/1
-    type: SFP
+    type: 1000base-x-sfp
   - name: GigabitEthernet0/2
-    type: SFP
+    type: 1000base-x-sfp
 comments: 30-jul

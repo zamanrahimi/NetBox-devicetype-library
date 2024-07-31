@@ -1,63 +1,60 @@
 manufacturer: Cisco
 model: Cisco ASA 5516-X
 part_number: Cisco ASA 5516-X
-slug: cisco-asa-5516-x
-u_height: 1
 interfaces:
-  - name: GigabitEthernet1/1
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/1
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/2
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/2
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/3
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/3
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/4
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/4
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/5
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/5
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/6
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/6
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/7
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/7
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/8
-    type: 10/100BaseTX
-  - name: GigabitEthernet1/8
-    type: 10/100BaseTX
-  - name: Internal-Control1/1
-    type: 10/100BaseTX
-  - name: Internal-Control1/1
-    type: 10/100BaseTX
-  - name: Internal-Data1/1
-    type: 10/100BaseTX
-  - name: Internal-Data1/1
-    type: 10/100BaseTX
-  - name: Internal-Data1/2
-    type: 10/100BaseTX
-  - name: Internal-Data1/2
-    type: 10/100BaseTX
-  - name: Internal-Data1/3
-    type: 10/100BaseTX
-  - name: Internal-Data1/3
-    type: 10/100BaseTX
-  - name: Internal-Data1/4
-    type: 10/100BaseTX
-  - name: Internal-Data1/4
-    type: 10/100BaseTX
-  - name: Management1/1
-    type: 10/100BaseTX
-  - name: Management1/1
-    type: 10/100BaseTX
-comments: 30-jul
+  - name: GigabitEthernet1/1{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/1{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/2{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/2{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/3{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/3{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/4{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/4{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/5{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/5{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/6{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/6{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/7{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/7{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/8{model}
+    type: 100base-tx
+  - name: GigabitEthernet1/8{model}
+    type: 100base-tx
+  - name: Internal-Control1/1{model}
+    type: 100base-tx
+  - name: Internal-Control1/1{model}
+    type: 100base-tx
+  - name: Internal-Data1/1{model}
+    type: 100base-tx
+  - name: Internal-Data1/1{model}
+    type: 100base-tx
+  - name: Internal-Data1/2{model}
+    type: 100base-tx
+  - name: Internal-Data1/2{model}
+    type: 100base-tx
+  - name: Internal-Data1/3{model}
+    type: 100base-tx
+  - name: Internal-Data1/3{model}
+    type: 100base-tx
+  - name: Internal-Data1/4{model}
+    type: 100base-tx
+  - name: Internal-Data1/4{model}
+    type: 100base-tx
+  - name: Management1/1{model}
+    type: 100base-tx
+  - name: Management1/1{model}
+    type: 100base-tx

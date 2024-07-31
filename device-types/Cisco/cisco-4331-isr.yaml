@@ -5,11 +5,11 @@ slug: cisco-4331-isr
 u_height: 1
 interfaces:
   - name: GigabitEthernet0
-    type: 1000base-t
+    type: 100base-tx
   - name: GigabitEthernet0/0/0
     type: 1000base-x-sfp
   - name: GigabitEthernet0/0/1
-    type: 1000base-t
+    type: 100base-tx
   - name: GigabitEthernet0/0/2
     type: 1000base-x-sfp
 comments: 30-jul

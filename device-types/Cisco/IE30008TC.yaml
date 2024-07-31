@@ -5,27 +5,27 @@ slug: ie30008tc
 u_height: 1
 interfaces:
   - name: FastEthernet1/1
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/2
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/3
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/4
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/5
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/6
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/7
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/8
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: GigabitEthernet1/1
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: GigabitEthernet1/2
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: Vlan1
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: Vlan201
-    type: 10/100BaseTX
+    type: 100base-tx
 comments: 30-jul

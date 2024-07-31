@@ -1,41 +1,38 @@
 manufacturer: Cisco
 model: Cisco 809 Industrial ISRs
 part_number: Cisco 809 Industrial ISRs
-slug: cisco-809-industrial-isrs
-u_height: 1
 interfaces:
-  - name: Async0
-    type: 10/100BaseTX
-  - name: Async1
-    type: 10/100BaseTX
-  - name: Cellular0
-    type: 10/100BaseTX
-  - name: Cellular1
-    type: 10/100BaseTX
-  - name: GigabitEthernet0
-    type: 10/100BaseTX
-  - name: GigabitEthernet01
-    type: 10/100BaseTX
-  - name: GigabitEthernet0201
-    type: 10/100BaseTX
-  - name: GigabitEthernet099
-    type: 10/100BaseTX
-  - name: GigabitEthernet1
-    type: 10/100BaseTX
-  - name: GigabitEthernet2
-    type: 10/100BaseTX
-  - name: Loopback0
-    type: 10/100BaseTX
-  - name: Tunnel20
-    type: 10/100BaseTX
-  - name: Tunnel30
-    type: 10/100BaseTX
-  - name: Tunnel40
-    type: 10/100BaseTX
-  - name: Tunnel44
-    type: 10/100BaseTX
-  - name: Tunnel46
-    type: 10/100BaseTX
-  - name: Tunnel50
-    type: 10/100BaseTX
-comments: 30-jul
+  - name: Async0{model}
+    type: 100base-tx
+  - name: Async1{model}
+    type: 100base-tx
+  - name: Cellular0{model}
+    type: 100base-tx
+  - name: Cellular1{model}
+    type: 100base-tx
+  - name: GigabitEthernet01{model}
+    type: 100base-tx
+  - name: GigabitEthernet0201{model}
+    type: 100base-tx
+  - name: GigabitEthernet099{model}
+    type: 100base-tx
+  - name: GigabitEthernet0{model}
+    type: 100base-tx
+  - name: GigabitEthernet1{model}
+    type: 100base-tx
+  - name: GigabitEthernet2{model}
+    type: 100base-tx
+  - name: Loopback0{model}
+    type: 100base-tx
+  - name: Tunnel20{model}
+    type: 100base-tx
+  - name: Tunnel30{model}
+    type: 100base-tx
+  - name: Tunnel40{model}
+    type: 100base-tx
+  - name: Tunnel44{model}
+    type: 100base-tx
+  - name: Tunnel46{model}
+    type: 100base-tx
+  - name: Tunnel50{model}
+    type: 100base-tx

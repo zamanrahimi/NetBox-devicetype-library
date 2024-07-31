@@ -1,25 +1,22 @@
 manufacturer: Cisco
 model: Cisco Catalyst 2960PD-8TT-L
 part_number: Cisco Catalyst 2960PD-8TT-L
-slug: cisco-catalyst-2960pd-8tt-l
-u_height: 1
 interfaces:
-  - name: FastEthernet0/1
-    type: 10/100BaseTX
-  - name: FastEthernet0/2
-    type: 10/100BaseTX
-  - name: FastEthernet0/3
-    type: 10/100BaseTX
-  - name: FastEthernet0/4
-    type: 10/100BaseTX
-  - name: FastEthernet0/5
-    type: 10/100BaseTX
-  - name: FastEthernet0/6
-    type: 10/100BaseTX
-  - name: FastEthernet0/7
-    type: 10/100BaseTX
-  - name: FastEthernet0/8
-    type: 10/100BaseTX
-  - name: GigabitEthernet0/1
-    type: 10/100/1000BaseTX
-comments: 30-jul
+  - name: FastEthernet0/1{model}
+    type: 100base-tx
+  - name: FastEthernet0/2{model}
+    type: 100base-tx
+  - name: FastEthernet0/3{model}
+    type: 100base-tx
+  - name: FastEthernet0/4{model}
+    type: 100base-tx
+  - name: FastEthernet0/5{model}
+    type: 100base-tx
+  - name: FastEthernet0/6{model}
+    type: 100base-tx
+  - name: FastEthernet0/7{model}
+    type: 100base-tx
+  - name: FastEthernet0/8{model}
+    type: 100base-tx
+  - name: GigabitEthernet0/1{model}
+    type: 1000base-t

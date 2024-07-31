@@ -5,25 +5,25 @@ slug: cisco-ie-2000-8tc-l
 u_height: 1
 interfaces:
   - name: FastEthernet1/1
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/10
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/2
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/3
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/4
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/5
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/6
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/7
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/8
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: FastEthernet1/9
-    type: 10/100BaseTX
+    type: 100base-tx
   - name: Vlan1
-    type: 10/100BaseTX
+    type: 100base-tx
 comments: 30-jul

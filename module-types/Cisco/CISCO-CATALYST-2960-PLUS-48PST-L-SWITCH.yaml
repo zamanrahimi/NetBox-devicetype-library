@@ -1,111 +1,108 @@
 manufacturer: Cisco
 model: Cisco Catalyst 2960-Plus 48PST-L Switch
 part_number: Cisco Catalyst 2960-Plus 48PST-L Switch
-slug: cisco-catalyst-2960-plus-48pst-l-switch
-u_height: 1
 interfaces:
-  - name: FastEthernet0/1
-    type: 10/100BaseTX
-  - name: FastEthernet0/10
-    type: 10/100BaseTX
-  - name: FastEthernet0/11
-    type: 10/100BaseTX
-  - name: FastEthernet0/12
-    type: 10/100BaseTX
-  - name: FastEthernet0/13
-    type: 10/100BaseTX
-  - name: FastEthernet0/14
-    type: 10/100BaseTX
-  - name: FastEthernet0/15
-    type: 10/100BaseTX
-  - name: FastEthernet0/16
-    type: 10/100BaseTX
-  - name: FastEthernet0/17
-    type: 10/100BaseTX
-  - name: FastEthernet0/18
-    type: 10/100BaseTX
-  - name: FastEthernet0/19
-    type: 10/100BaseTX
-  - name: FastEthernet0/2
-    type: 10/100BaseTX
-  - name: FastEthernet0/20
-    type: 10/100BaseTX
-  - name: FastEthernet0/21
-    type: 10/100BaseTX
-  - name: FastEthernet0/22
-    type: 10/100BaseTX
-  - name: FastEthernet0/23
-    type: 10/100BaseTX
-  - name: FastEthernet0/24
-    type: 10/100BaseTX
-  - name: FastEthernet0/25
-    type: 10/100BaseTX
-  - name: FastEthernet0/26
-    type: 10/100BaseTX
-  - name: FastEthernet0/27
-    type: 10/100BaseTX
-  - name: FastEthernet0/28
-    type: 10/100BaseTX
-  - name: FastEthernet0/29
-    type: 10/100BaseTX
-  - name: FastEthernet0/3
-    type: 10/100BaseTX
-  - name: FastEthernet0/30
-    type: 10/100BaseTX
-  - name: FastEthernet0/31
-    type: 10/100BaseTX
-  - name: FastEthernet0/32
-    type: 10/100BaseTX
-  - name: FastEthernet0/33
-    type: 10/100BaseTX
-  - name: FastEthernet0/34
-    type: 10/100BaseTX
-  - name: FastEthernet0/35
-    type: 10/100BaseTX
-  - name: FastEthernet0/36
-    type: 10/100BaseTX
-  - name: FastEthernet0/37
-    type: 10/100BaseTX
-  - name: FastEthernet0/38
-    type: 10/100BaseTX
-  - name: FastEthernet0/39
-    type: 10/100BaseTX
-  - name: FastEthernet0/4
-    type: 10/100BaseTX
-  - name: FastEthernet0/40
-    type: 10/100BaseTX
-  - name: FastEthernet0/41
-    type: 10/100BaseTX
-  - name: FastEthernet0/42
-    type: 10/100BaseTX
-  - name: FastEthernet0/43
-    type: 10/100BaseTX
-  - name: FastEthernet0/44
-    type: 10/100BaseTX
-  - name: FastEthernet0/45
-    type: 10/100BaseTX
-  - name: FastEthernet0/46
-    type: 10/100BaseTX
-  - name: FastEthernet0/47
-    type: 10/100BaseTX
-  - name: FastEthernet0/48
-    type: 10/100BaseTX
-  - name: FastEthernet0/5
-    type: 10/100BaseTX
-  - name: FastEthernet0/6
-    type: 10/100BaseTX
-  - name: FastEthernet0/7
-    type: 10/100BaseTX
-  - name: FastEthernet0/8
-    type: 10/100BaseTX
-  - name: FastEthernet0/9
-    type: 10/100BaseTX
-  - name: GigabitEthernet0/1
-    type: SFP
-  - name: GigabitEthernet0/2
-    type: SFP
-  - name: GigabitEthernet0/3
-    type: 10/100/1000BaseTX
-  - name: GigabitEthernet0/4
-    type: 10/100/1000BaseTX
-comments: 30-jul
+  - name: FastEthernet0/10{model}
+    type: 100base-tx
+  - name: FastEthernet0/11{model}
+    type: 100base-tx
+  - name: FastEthernet0/12{model}
+    type: 100base-tx
+  - name: FastEthernet0/13{model}
+    type: 100base-tx
+  - name: FastEthernet0/14{model}
+    type: 100base-tx
+  - name: FastEthernet0/15{model}
+    type: 100base-tx
+  - name: FastEthernet0/16{model}
+    type: 100base-tx
+  - name: FastEthernet0/17{model}
+    type: 100base-tx
+  - name: FastEthernet0/18{model}
+    type: 100base-tx
+  - name: FastEthernet0/19{model}
+    type: 100base-tx
+  - name: FastEthernet0/1{model}
+    type: 100base-tx
+  - name: FastEthernet0/20{model}
+    type: 100base-tx
+  - name: FastEthernet0/21{model}
+    type: 100base-tx
+  - name: FastEthernet0/22{model}
+    type: 100base-tx
+  - name: FastEthernet0/23{model}
+    type: 100base-tx
+  - name: FastEthernet0/24{model}
+    type: 100base-tx
+  - name: FastEthernet0/25{model}
+    type: 100base-tx
+  - name: FastEthernet0/26{model}
+    type: 100base-tx
+  - name: FastEthernet0/27{model}
+    type: 100base-tx
+  - name: FastEthernet0/28{model}
+    type: 100base-tx
+  - name: FastEthernet0/29{model}
+    type: 100base-tx
+  - name: FastEthernet0/2{model}
+    type: 100base-tx
+  - name: FastEthernet0/30{model}
+    type: 100base-tx
+  - name: FastEthernet0/31{model}
+    type: 100base-tx
+  - name: FastEthernet0/32{model}
+    type: 100base-tx
+  - name: FastEthernet0/33{model}
+    type: 100base-tx
+  - name: FastEthernet0/34{model}
+    type: 100base-tx
+  - name: FastEthernet0/35{model}
+    type: 100base-tx
+  - name: FastEthernet0/36{model}
+    type: 100base-tx
+  - name: FastEthernet0/37{model}
+    type: 100base-tx
+  - name: FastEthernet0/38{model}
+    type: 100base-tx
+  - name: FastEthernet0/39{model}
+    type: 100base-tx
+  - name: FastEthernet0/3{model}
+    type: 100base-tx
+  - name: FastEthernet0/40{model}
+    type: 100base-tx
+  - name: FastEthernet0/41{model}
+    type: 100base-tx
+  - name: FastEthernet0/42{model}
+    type: 100base-tx
+  - name: FastEthernet0/43{model}
+    type: 100base-tx
+  - name: FastEthernet0/44{model}
+    type: 100base-tx
+  - name: FastEthernet0/45{model}
+    type: 100base-tx
+  - name: FastEthernet0/46{model}
+    type: 100base-tx
+  - name: FastEthernet0/47{model}
+    type: 100base-tx
+  - name: FastEthernet0/48{model}
+    type: 100base-tx
+  - name: FastEthernet0/4{model}
+    type: 100base-tx
+  - name: FastEthernet0/5{model}
+    type: 100base-tx
+  - name: FastEthernet0/6{model}
+    type: 100base-tx
+  - name: FastEthernet0/7{model}
+    type: 100base-tx
+  - name: FastEthernet0/8{model}
+    type: 100base-tx
+  - name: FastEthernet0/9{model}
+    type: 100base-tx
+  - name: GigabitEthernet0/1{model}
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/2{model}
+    type: 1000base-x-sfp
+  - name: GigabitEthernet0/3{model}
+    type: 1000base-t
+  - name: GigabitEthernet0/4{model}
+    type: 1000base-t
