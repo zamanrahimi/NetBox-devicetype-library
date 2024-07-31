@@ -7,4 +7,6 @@ is_full_depth: false
 interfaces:
   - name: GigabitEthernet0/2/2
     type: 1000base-x-sfp
+  - name: GigabitEthernet0/2/3
+    type: 1000base-t
 comments: 30-jul
