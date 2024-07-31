@@ -3,6 +3,6 @@ model: Cisco Voice Gateway 204XM
 part_number: Cisco Voice Gateway 204XM
 interfaces:
   - name: FastEthernet0/0{model}
-    type: v1000base-t
+    type: 1000base-t
   - name: FastEthernet0/1{model}
-    type: v1000base-t
+    type: 1000base-t

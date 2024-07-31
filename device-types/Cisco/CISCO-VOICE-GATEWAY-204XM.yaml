@@ -5,7 +5,7 @@ slug: cisco-voice-gateway-204xm
 u_height: 1
 interfaces:
   - name: FastEthernet0/0
-    type: v1000base-t
+    type: 1000base-t
   - name: FastEthernet0/1
-    type: v1000base-t
+    type: 1000base-t
 comments: custom
