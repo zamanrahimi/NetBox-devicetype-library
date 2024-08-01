@@ -1,9 +1,0 @@
-manufacturer: Cisco
-model: Cisco Catalyst 8500 Series Edge Router, C8500-12X4QC Chassis
-part_number: Cisco Catalyst 8500 Series Edge Router, C8500-12X4QC Chassis
-slug: cisco-catalyst-8500-series-edge-router,-c8500-12x4qc-chassis
-u_height: 1
-interfaces:
-  - name: GigabitEthernet1/0/2
-    type: 1000base-t
-comments: custom
