@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco C9200L
+part_number: Cisco C9200L
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco
+part_number: Cisco
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

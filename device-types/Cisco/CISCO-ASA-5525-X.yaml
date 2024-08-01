@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco ASA 5525-X
+part_number: Cisco ASA 5525-X
+slug: cisco-asa-5525-x
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

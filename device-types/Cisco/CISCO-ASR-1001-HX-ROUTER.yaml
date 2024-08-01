@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco ASR 1001-HX Router
+part_number: Cisco ASR 1001-HX Router
+slug: cisco-asr-1001-hx-router
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

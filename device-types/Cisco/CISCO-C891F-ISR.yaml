@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco C891F ISR
+part_number: Cisco C891F ISR
+slug: cisco-c891f-isr
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

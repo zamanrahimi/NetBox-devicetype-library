@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco C9200L
+part_number: Cisco C9200L
+slug: cisco-c9200l
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

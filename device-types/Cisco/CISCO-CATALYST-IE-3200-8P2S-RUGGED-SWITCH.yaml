@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst IE-3200-8P2S Rugged Switch
+part_number: Cisco Catalyst IE-3200-8P2S Rugged Switch
+slug: cisco-catalyst-ie-3200-8p2s-rugged-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

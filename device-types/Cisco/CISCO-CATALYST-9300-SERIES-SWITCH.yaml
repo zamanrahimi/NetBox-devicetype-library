@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 9300 Series Switch
+part_number: Cisco Catalyst 9300 Series Switch
+slug: cisco-catalyst-9300-series-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

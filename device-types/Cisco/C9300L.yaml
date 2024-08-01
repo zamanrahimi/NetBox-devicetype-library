@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: C9300L
+part_number: C9300L
+slug: c9300l
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

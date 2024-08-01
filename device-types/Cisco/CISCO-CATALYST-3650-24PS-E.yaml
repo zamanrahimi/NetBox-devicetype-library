@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3650-24PS-E
+part_number: Cisco Catalyst 3650-24PS-E
+slug: cisco-catalyst-3650-24ps-e
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

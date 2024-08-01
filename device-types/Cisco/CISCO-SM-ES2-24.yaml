@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco SM-ES2-24
+part_number: Cisco SM-ES2-24
+slug: cisco-sm-es2-24
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

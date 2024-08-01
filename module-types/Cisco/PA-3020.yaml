@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: PA-3020
+part_number: PA-3020
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

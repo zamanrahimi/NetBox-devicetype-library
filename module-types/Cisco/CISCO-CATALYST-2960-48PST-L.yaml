@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco Catalyst 2960-48PST-L
+part_number: Cisco Catalyst 2960-48PST-L
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

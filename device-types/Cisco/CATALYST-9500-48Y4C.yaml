@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Catalyst 9500-48Y4C
+part_number: Catalyst 9500-48Y4C
+slug: catalyst-9500-48y4c
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

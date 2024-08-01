@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 9407R Switch
+part_number: Cisco Catalyst 9407R Switch
+slug: cisco-catalyst-9407r-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

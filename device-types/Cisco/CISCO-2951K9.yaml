@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco 2951K9
+part_number: Cisco 2951K9
+slug: cisco-2951k9
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

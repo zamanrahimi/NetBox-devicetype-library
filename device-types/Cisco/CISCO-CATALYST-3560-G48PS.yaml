@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3560-G48PS
+part_number: Cisco Catalyst 3560-G48PS
+slug: cisco-catalyst-3560-g48ps
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

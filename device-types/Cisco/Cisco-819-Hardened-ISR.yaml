@@ -1,8 +1,9 @@
 manufacturer: Cisco
 model: Cisco 819 Hardened ISR
 part_number: Cisco 819 Hardened ISR
-slug: Cisco-819-Hardened-ISR
+slug: cisco-819-hardened-isr
 u_height: 1
 interfaces:
-  - name: FastEthernet1/0/25
-    type: 100base-tx
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

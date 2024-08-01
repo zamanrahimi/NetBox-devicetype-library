@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 94010R Switch
+part_number: Cisco Catalyst 94010R Switch
+slug: cisco-catalyst-94010r-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco
+part_number: Cisco
+slug: cisco
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

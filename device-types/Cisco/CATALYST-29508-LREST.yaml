@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Catalyst 29508 LRESt
+part_number: Catalyst 29508 LRESt
+slug: catalyst-29508-lrest
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

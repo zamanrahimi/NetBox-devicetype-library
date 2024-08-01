@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Catalyst 3560X 24 PoE
+part_number: Catalyst 3560X 24 PoE
+slug: catalyst-3560x-24-poe
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco IE-2000-4TS-G-B
+part_number: Cisco IE-2000-4TS-G-B
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

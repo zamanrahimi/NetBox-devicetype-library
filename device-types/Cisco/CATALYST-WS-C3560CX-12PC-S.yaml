@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Catalyst WS-C3560CX-12PC-S
+part_number: Catalyst WS-C3560CX-12PC-S
+slug: catalyst-ws-c3560cx-12pc-s
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

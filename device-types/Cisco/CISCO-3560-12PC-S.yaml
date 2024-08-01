@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco 3560-12PC-S
+part_number: Cisco 3560-12PC-S
+slug: cisco-3560-12pc-s
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

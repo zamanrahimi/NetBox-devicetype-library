@@ -1,10 +1,13 @@
 manufacturer: Cisco
 model: Cisco 2821
 part_number: Cisco 2821
-slug: Cisco-2821
+slug: cisco-2821
 u_height: 1
 interfaces:
   - name: GigabitEthernet0/0
-    type: 1000BASE-T
+    type: 1000base-t
   - name: GigabitEthernet0/1
-    type: 1000BASE-T
+    type: 1000base-t
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

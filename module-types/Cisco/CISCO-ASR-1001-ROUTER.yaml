@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco ASR 1001 Router
+part_number: Cisco ASR 1001 Router
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

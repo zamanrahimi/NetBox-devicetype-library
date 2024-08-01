@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco ISR4451
+part_number: Cisco ISR4451
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

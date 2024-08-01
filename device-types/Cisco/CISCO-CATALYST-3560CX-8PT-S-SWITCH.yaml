@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3560CX-8PT-S Switch
+part_number: Cisco Catalyst 3560CX-8PT-S Switch
+slug: cisco-catalyst-3560cx-8pt-s-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

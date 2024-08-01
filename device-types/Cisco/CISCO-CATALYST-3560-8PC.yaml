@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3560-8PC
+part_number: Cisco Catalyst 3560-8PC
+slug: cisco-catalyst-3560-8pc
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom

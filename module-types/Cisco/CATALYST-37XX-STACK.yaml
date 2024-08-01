@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Catalyst 37xx Stack
+part_number: Catalyst 37xx Stack
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

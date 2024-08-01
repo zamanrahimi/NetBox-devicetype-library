@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3560CG-8PC-S
+part_number: Cisco Catalyst 3560CG-8PC-S
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

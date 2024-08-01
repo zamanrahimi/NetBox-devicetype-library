@@ -1,0 +1,6 @@
+manufacturer: Cisco
+model: Cisco 4351 ISR
+part_number: Cisco 4351 ISR
+interfaces:
+  - name: GigabitEthernet1/0/2{model}
+    type: 1000base-t

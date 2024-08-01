@@ -1,0 +1,9 @@
+manufacturer: Cisco
+model: Cisco Catalyst C8500-12X
+part_number: Cisco Catalyst C8500-12X
+slug: cisco-catalyst-c8500-12x
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/2
+    type: 1000base-t
+comments: custom
